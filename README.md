@@ -1,5 +1,12 @@
 # Controle de Gastos Next
 
+## 🌐 Aplicação em Produção
+
+O projeto está hospedado gratuitamente na Vercel e pode ser acessado em:
+**[https://controle-gastos-next.vercel.app](https://controle-gastos-next.vercel.app)**
+
+---
+
 ## 📝 Descrição do Projeto
 
 Este projeto consiste na migração de uma página única em HTML, CSS e JavaScript puro para o framework **Next.js**. O código original foi reescrito para utilizar o novo App Router do Next.js.
